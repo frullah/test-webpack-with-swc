@@ -19,10 +19,9 @@
   },
   "homepage": "https://github.com/frullah/test-webpack-with-swc#readme",
   "devDependencies": {
-    "@babel/core": "^7.16.7",
-    "@babel/preset-env": "^7.16.7",
-    "babel-loader": "^8.2.3",
+    "@swc/core": "^1.2.127",
     "browserslist": "^4.19.1",
+    "swc-loader": "^0.1.15",
     "webpack": "^5.65.0",
     "webpack-cli": "^4.9.1"
   },
